@@ -1,7 +1,7 @@
-#include <iostream>
-using namespace std;
-int main()
-{
-    cout<<"Hello World";
-    return 0;
+#include "func.h"
+
+int main() {
+  print();
+
+  return 0;
 }
