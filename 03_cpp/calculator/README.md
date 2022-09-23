@@ -9,7 +9,7 @@ int main()
     {
         cout << "number: "; 
         cin >> n1; 
-        cout << " + or - or * or / or ^?  "; 
+        cout << $ "; 
         cin >> op; 
         cout << "number: ";
         cin >> n2;
