@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std; 
 int main() 
 {
@@ -22,8 +23,7 @@ int main()
             break; 
             case '/': cout << n1/n2 << endl; 
             break;
-            default:
-            cout << "we have a little problem" << endl; 
+            case '^': cout << pow(n1,n2) << endl;
             break; 
         } 
     
