@@ -13,12 +13,7 @@ int *swap(int arr[], int what, int with);
 
 int main() {
   long int help[] = {
-    10,
-    100,
-    1000,
-    1000000, // dead point
-    1000000000,
-    1000000000000
+   
   };
 
   for (int i = 0; i != 5; ++i) {
