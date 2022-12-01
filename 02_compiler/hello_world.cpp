@@ -1,7 +1,7 @@
+#include "iostream"
 #include "func.h"
-
-int main() {
+int main() 
+{
   print();
-
   return 0;
 }
