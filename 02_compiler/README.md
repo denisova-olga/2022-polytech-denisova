@@ -16,9 +16,5 @@
 
 `Oz` как `Os` только агрессивнее
 
-![Speed](https://imgur.com/igxzPI4.png)
-
-![Size](https://imgur.com/UKvQfDA.png)
-
 Размеры файлов почти не отличаются
 
