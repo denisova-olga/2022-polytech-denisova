@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-  std::cout << "Enter your name, please: ";
+  std::cout << "Name? ";
   std::string username;
   std::cin >> username;
   std::cout << "\nHello, " << username << "!" << std::endl;
